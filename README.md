@@ -1,5 +1,5 @@
 <a href="https://t.me/SurkovEV">
-<img align="left" alt="Telegram" width="22px" src="https://www.flaticon.com/ru/free-icon/telegram_5968804"/>
+<img align="left" alt="Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/4401/4401433.png"/>
 </a>
 
 #### _Всем привет!👋_
