@@ -6,7 +6,7 @@
 _Меня зовут Евгений, я Java разработчик._     
 
 _💻 С Java познакомился в конце 2021 года на курсах профессиональной переподготовки в Яндекс Практикуме. 
-Владею Java core (11), Spring, Spring Boot, JPA, JDBC, PostgreSQL, H2, Docker, Docker compose, 
+Владею Java core (11+), Spring, Spring Boot, JPA, JDBC, PostgreSQL, H2, Docker, Docker compose, 
 Mockito, MockMvc. Postman/Insomnia, Maven, Slf4J, Lombok, OpenAPI(Swagger), Kafka._
 
 _Недавние проекты:_  
