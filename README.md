@@ -1,7 +1,3 @@
-<a href="https://t.me/SurkovEV">
-<img align="left" alt="Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/4401/4401433.png"/>
-</a>
-
 #### _Всем привет!👋_
 _Меня зовут Евгений, я Java разработчик._     
 
