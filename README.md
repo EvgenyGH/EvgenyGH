@@ -2,12 +2,12 @@
 _Меня зовут Евгений, я Java разработчик._     
 
 _💻 С Java познакомился в конце 2021 года на курсах профессиональной переподготовки в Яндекс Практикуме. 
-Владею Java core (11+), Spring, Spring Boot, JPA, JDBC, PostgreSQL, H2, Docker, Docker compose, 
-Mockito, MockMvc. Postman/Insomnia, Maven, Slf4J, Lombok, OpenAPI(Swagger), Kafka._
+Владею Java core (17+), Spring, Spring Boot, JPA, JDBC, PostgreSQL, H2, Docker, Docker compose, 
+Mockito, MockMvc. Postman/Insomnia, Maven, Slf4J, Lombok, OpenAPI(Swagger), Kafka, Nginx._
 
 _Недавние проекты:_  
 
-📢1. _NoteBot - это телеграмм бот (webhook), который позволяет пользователю управлять своими заметками [начать пользоваться](https://t.me/try_my_note_bot)_
+📢1. _NoteBot ([начать пользоваться](https://t.me/try_my_note_bot)) - это телеграмм бот (webhook), который позволяет пользователю управлять своими заметками._
 **Стэк:** Spring-Boot(2.7.5), JPA/Hibernait(5.6.12), org.telegram.telegrambots(6.5.0), Nginx(1.24.0), Maven(3.8.4), PostgreSQL(42.5.4), JDK 17; Lombok(1.18.24), Slf4j(1.7.36), Docker(20.10.17), Docker-compose(2.10.2), Mockito (5.3.1), Testcontainers (1.17.6)._
 
 📢2. _Explore with me (https://github.com/EvgenyGH/java-explore-with-me)._  
