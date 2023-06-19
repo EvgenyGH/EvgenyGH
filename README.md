@@ -9,7 +9,7 @@ Mockito, MockMvc. Postman/Insomnia, Maven, Slf4J, Lombok, OpenAPI(Swagger), Kafk
 
 📢1. ___NoteBot ([начать пользоваться](https://t.me/try_my_note_bot)).___    
 _Телеграмм бот (webhook), который позволяет пользователю управлять своими заметками._    
-**Стэк:** Spring-Boot(2.7.5), JPA/Hibernait(5.6.12), org.telegram.telegrambots(6.5.0), Nginx(1.24.0), Maven(3.8.4), PostgreSQL(42.5.4), JDK 17; Lombok(1.18.24), Slf4j(1.7.36), Docker(20.10.17), Docker-compose(2.10.2), Mockito (5.3.1), Testcontainers (1.17.6)._
+**Стэк:** Spring-Boot(2.7.5), JPA/Hibernait(5.6.12), org.telegram.telegrambots(6.5.0), Nginx(1.24.0), Maven(3.8.4), PostgreSQL(42.5.4), JDK 17; Lombok(1.18.24), Slf4j(1.7.36), Docker(20.10.17), Docker-compose(2.10.2), Mockito (5.3.1), Testcontainers (1.17.6).
 
 📢2. ___Explore with me (https://github.com/EvgenyGH/java-explore-with-me).___  
 _Приложение дает возможность делиться информацией об интересных событиях и помогать найти 
